@@ -1,0 +1,12 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore Netlify cache (optional)
+.netlify/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
